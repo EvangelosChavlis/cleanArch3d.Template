@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vagelis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vagelis\\.nuget\\packages"
+    ]
+  }
+}

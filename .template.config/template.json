@@ -1,0 +1,15 @@
+{
+  "author": "Evangelos Chavlis <https://www.linkedin.com/in/vagelis-chavlis/>",
+  "classifications": [
+    "Clean Architecture",
+    "Domain Driver Design",
+    "Repository Pattern"
+  ],
+  "name": "Clean Architecture [Domain Driver Design] with Repository Pattern .NET Core project",
+  "identity": "cleanArch3d.RP.Core",
+  "shortName": "ca-rp",
+  "tags": {
+    "language": "C#"
+  },
+  "sourceName": "cleanArch3d.RP.Net.Core"
+}

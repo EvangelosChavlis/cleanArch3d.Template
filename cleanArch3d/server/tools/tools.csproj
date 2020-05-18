@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\data\data.csproj" />
+    <ProjectReference Include="..\src\Application\Application.csproj" />
+    <ProjectReference Include="..\src\Domain\Domain.csproj" />
+    <ProjectReference Include="..\src\Infrastructure\Jobs\Jobs.csproj" />
+    <ProjectReference Include="..\src\Infrastructure\Mailer\Mailer.csproj" />
+    <ProjectReference Include="..\src\Infrastructure\Metrics\Metrics.csproj" />
+    <ProjectReference Include="..\src\Infrastructure\Office\Office.csproj" />
+    <ProjectReference Include="..\src\Persistence\Persistence.csproj" />
+    <ProjectReference Include="..\src\Presentation\WebApi\WebApi.csproj" />
+    <ProjectReference Include="..\src\Presentation\Api\Api.csproj" />
+    <ProjectReference Include="..\tests\Application.UnitTests\Application.UnitTests.csproj" />
+    <ProjectReference Include="..\tests\Domain.UnitTests\Domain.UnitTests.csproj" />
+    <ProjectReference Include="..\tests\Infrastructure.Tests\Jobs.IntergrationTests\Jobs.IntergrationTests.csproj" />
+    <ProjectReference Include="..\tests\Infrastructure.Tests\Mailer.IntergrationTests\Mailer.IntergrationTests.csproj" />
+    <ProjectReference Include="..\tests\Infrastructure.Tests\Metrics.IntergrationTests\Metrics.IntergrationTests.csproj" />
+    <ProjectReference Include="..\tests\Infrastructure.Tests\Office.IntergrationTests\Office.IntergrationTests.csproj" />
+    <ProjectReference Include="..\tests\Persistence.IntergrationTests\Persistence.IntergrationTests.csproj" />
+    <ProjectReference Include="..\tests\Presentation.Tests\WebApi.IntergrationTests\WebApi.IntergrationTests.csproj" />
+    <ProjectReference Include="..\tests\Presentation.Tests\Api.IntergrationTests\Api.IntergrationTests.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>

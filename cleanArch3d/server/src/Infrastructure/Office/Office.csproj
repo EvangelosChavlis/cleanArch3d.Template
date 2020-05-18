@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspose.Cells" Version="20.4.0" />
+    <PackageReference Include="Aspose.Pdf" Version="20.5.0" />
+    <PackageReference Include="Aspose.Slides.NET" Version="20.5.0" />
+    <PackageReference Include="Aspose.Words" Version="20.5.0" />
+    <PackageReference Include="SkiaSharp" Version="1.68.2.1" />
+    <PackageReference Include="SkiaSharp.NativeAssets.Linux" Version="1.68.2.1" />
+  </ItemGroup>
+
+</Project>
