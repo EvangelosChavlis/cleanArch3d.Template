@@ -3510,11 +3510,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vagelis\\Desktop\\Projects\\hesiod\\setup-template\\cleanArch3d.Template\\cleanArch3d\\server\\tests\\Persistence.IntergrationTests\\Persistence.IntergrationTests.csproj",
+      "projectUniqueName": "c:\\Users\\Vagelis\\Desktop\\cleanArch3d.Template\\cleanArch3d\\server\\tests\\Persistence.IntergrationTests\\Persistence.IntergrationTests.csproj",
       "projectName": "Persistence.IntergrationTests",
-      "projectPath": "C:\\Users\\Vagelis\\Desktop\\Projects\\hesiod\\setup-template\\cleanArch3d.Template\\cleanArch3d\\server\\tests\\Persistence.IntergrationTests\\Persistence.IntergrationTests.csproj",
+      "projectPath": "c:\\Users\\Vagelis\\Desktop\\cleanArch3d.Template\\cleanArch3d\\server\\tests\\Persistence.IntergrationTests\\Persistence.IntergrationTests.csproj",
       "packagesPath": "C:\\Users\\Vagelis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vagelis\\Desktop\\Projects\\hesiod\\setup-template\\cleanArch3d.Template\\cleanArch3d\\server\\tests\\Persistence.IntergrationTests\\obj\\",
+      "outputPath": "c:\\Users\\Vagelis\\Desktop\\cleanArch3d.Template\\cleanArch3d\\server\\tests\\Persistence.IntergrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vagelis\\AppData\\Roaming\\NuGet\\NuGet.Config"

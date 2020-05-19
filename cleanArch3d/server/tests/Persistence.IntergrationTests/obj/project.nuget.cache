@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8uAfJdQ2dDLGIjqMRwv8hHyKoNLZk/TH09mXbV+o91pbcNxEf2Mrw1vWGj4Usgur446jhe9kxpjBKgJhFlS3Xg==",
+  "dgSpecHash": "UEeRs7BpfVITvmnFcya4EndG7e+hKbVv3xrdKAQL8dPFw0Ji4ExOhJjedRdb5csRxyKBVbsuvohYOOo/rMxlvA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Vagelis\\Desktop\\Projects\\hesiod\\setup-template\\cleanArch3d.Template\\cleanArch3d\\server\\tests\\Persistence.IntergrationTests\\Persistence.IntergrationTests.csproj",
+  "projectFilePath": "c:\\Users\\Vagelis\\Desktop\\cleanArch3d.Template\\cleanArch3d\\server\\tests\\Persistence.IntergrationTests\\Persistence.IntergrationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vagelis\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Vagelis\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
